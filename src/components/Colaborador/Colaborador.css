@@ -1,0 +1,33 @@
+.colaborador{
+    background-color: #fff;
+    min-width: 262px;
+    height: 272px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 32px;
+}
+
+.imagem {
+    width: 100%;
+    height: 30%;
+}
+
+.imagem img{
+    height: 128px;
+    margin-top: 32px;
+    border-radius: 100%;
+}
+
+.infos{
+    margin-top: 86px;
+}
+
+h4{
+    color: rgba(98, 120, 247, 1);
+    font-weight: 600;
+}
+
+h5{
+    color: rgba(33, 33, 33, 1);
+    font-weight: 400;
+}
